@@ -4,7 +4,7 @@ from tkinter import colorchooser,filedialog,messagebox
 import PIL.ImageGrab as ImageGrab
 import time
 import numpy as np
-import requests
+#import requests
 import socket
 
 url = 'http://192.168.164.159'
